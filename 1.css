@@ -1,0 +1,57 @@
+#body {
+    width: 50%;
+    margin-left: 30%;
+    text-align: center;
+    
+}
+
+header {
+    background-color: lightsalmon;
+    height: 7vh;
+   font-family: sans-serif;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+    
+   
+    }
+
+section {
+    display: flex;
+    justify-content: center;
+   
+  align-items: center;
+    background-color: lightblue;
+    height: 14vh;
+    overflow: hidden;
+}
+#content {
+    display: flex;
+    
+}
+
+#aside1 {
+    background-color: yellow;
+    width: 50%;
+    height: 40px;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#aside2 {
+    background-color: violet;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+footer {
+    background-color: lightgreen;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+}
